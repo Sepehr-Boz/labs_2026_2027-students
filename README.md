@@ -11,9 +11,8 @@
 |   6   | 8&9 |  Self-Attention and Transformers | [`lab6`](https://github.com/f21nl-heriot-watt/labs_2026_2027-students/blob/main/labs/F21NL_Self_Attention_and_Transformers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2026_2027-students/blob/main/labs/F21NL_F21NL_Self_Attention_and_Transformers.ipynb) | N/A | 
 |   7   | 10 |  Tokenization | [`lab7`](https://github.com/f21nl-heriot-watt/labs_2026_2027-students/blob/main/labs/F21NL_Tokenization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2026_2027-students/blob/main/labs/F21NL_Tokenization.ipynb) | N/A |
 
-## Supplementary Material
-Callback:
-- [`EpochLossLogger`](https://github.com/f21nl-heriot-watt/labs_2026_2027-students/blob/main/material/EpochLossLogger-Callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2026_2027-students/blob/main/material/EpochLossLogger-Callback.ipynb) 
+## CW1 Material
+[`F21NL-CW1`](https://github.com/f21nl-heriot-watt/labs_2026_2027-students/blob/main/material/F21NL_CW1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2026_2027-students/blob/main/material/F21NL_CW1.ipynb) 
 
 ### More PyTorch
 
