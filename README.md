@@ -12,6 +12,8 @@
 |   7   | 10 |  Tokenization | [`lab7`](https://github.com/f21nl-heriot-watt/labs_2026_2027-students/blob/main/labs/F21NL_Tokenization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2026_2027-students/blob/main/labs/F21NL_Tokenization.ipynb) | N/A |
 
 ## Supplementary Material
+Callback:
+- [`EpochLossLogger`](https://github.com/f21nl-heriot-watt/labs_2026_2027-students/blob/main/material/EpochLossLogger-Callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2026_2027-students/blob/main/material/EpochLossLogger-Callback.ipynb) 
 
 ### More PyTorch
 
