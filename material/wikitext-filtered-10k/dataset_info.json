@@ -1,0 +1,54 @@
+{
+  "builder_name": "wikitext",
+  "citation": "@misc{merity2016pointer,\n      title={Pointer Sentinel Mixture Models},\n      author={Stephen Merity and Caiming Xiong and James Bradbury and Richard Socher},\n      year={2016},\n      eprint={1609.07843},\n      archivePrefix={arXiv},\n      primaryClass={cs.CL}\n}\n",
+  "config_name": "wikitext-103-raw-v1",
+  "dataset_name": "wikitext",
+  "dataset_size": 548965325,
+  "description": " The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified\n Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike\n License.\n",
+  "download_checksums": {
+    "https://s3.amazonaws.com/research.metamind.io/wikitext/wikitext-103-raw-v1.zip": {
+      "num_bytes": 191984949,
+      "checksum": null
+    }
+  },
+  "download_size": 191984949,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+  "size_in_bytes": 740950274,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 1305088,
+      "num_examples": 4358,
+      "dataset_name": "wikitext"
+    },
+    "train": {
+      "name": "train",
+      "num_bytes": 546500949,
+      "num_examples": 1801350,
+      "shard_lengths": [
+        1649000,
+        152350
+      ],
+      "dataset_name": "wikitext"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 1159288,
+      "num_examples": 3760,
+      "dataset_name": "wikitext"
+    }
+  },
+  "version": {
+    "version_str": "1.0.0",
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
