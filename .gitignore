@@ -1,0 +1,5 @@
+wikitext-*
+wordsim/*
+*.csv
+*.model
+*.zip
