@@ -12,7 +12,7 @@
 |   7   | 10 |  Tokenization | [`lab7`](https://github.com/f21nl-heriot-watt/labs_2026_2027-students/blob/main/labs/F21NL_Tokenization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f21nl-heriot-watt/labs_2026_2027-students/blob/main/labs/F21NL_Tokenization.ipynb) | N/A |
 
 ## CW1 Material
-[`F21NL-CW1`](material/F21NL_CW1.ipynb) [![Open In Colab](https://colab.research.google.com/drive/1lKiNxKMVeh_RYB3klmB24tZrG_VMCrvk?usp=sharing)]
+[`F21NL-CW1`](material/F21NL_CW1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lKiNxKMVeh_RYB3klmB24tZrG_VMCrvk?usp=sharing)]
 
 ### More PyTorch
 
